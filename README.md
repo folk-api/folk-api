@@ -1,4 +1,4 @@
-# Hvat er Folk Java API
+# Hvat er Folk API
 Folk API er eitt savnsforrit til vevtænastur í [Fólkayvirlitsskipanini](http://us.fo/Default.aspx?ID=13792) hjá
 [Umhvørvisstovuni](http://us.fo). Hesar vevtænastur eru tøkar umvegis
 [Heldina](https://www.talgildu.fo/heldin/heldin/).
